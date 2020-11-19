@@ -27,5 +27,5 @@ June and December do not show an extreme temperature difference, so the Surf and
 ### Two additional queries that can be performed to gather more weather data for June and December are as follows:
 
 -	Query to group TOBS(Temperature Observation Data) by Station for the month of June and December.
--	Query to get the precipitation Data for the month of June and December.
+-	Query to get the precipitation data for the month of June and December.
 
