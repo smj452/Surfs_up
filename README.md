@@ -1,4 +1,4 @@
-# Surf and Ice Cream Shop Busines Analysis using SQLite and SQLAlchemy
+# Surf and Ice Cream Shop Business Analysis using SQLite and SQLAlchemy
 
 ## Project Overview
 
